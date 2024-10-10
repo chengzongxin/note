@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"6ab5b587f5e843f6","x":280,"y":-58,"width":400,"height":400,"type":"group","label":"Untitled group"},
+		{"id":"6295553eef949b5c","x":-24,"y":49,"width":250,"height":60,"type":"text","text":""},
+		{"id":"52fd1e33e5d42f60","x":-24,"y":49,"width":250,"height":60,"type":"text","text":""},
+		{"id":"aee6121a7c284500","x":-24,"y":49,"width":250,"height":60,"type":"text","text":"大撒"},
+		{"id":"2412e181cc594268","x":-24,"y":49,"width":344,"height":60,"color":"3","type":"text","text":"大萨达大的"},
+		{"id":"53dd1e242765c119","x":40,"y":240,"width":250,"height":50,"type":"text","text":""},
+		{"id":"503cd897e2a7d0ea","x":-302,"y":116,"width":250,"height":60,"type":"text","text":"大"},
+		{"id":"5f7cda198f3bc9c5","x":-103,"y":-305,"width":159,"height":225,"type":"file","file":"哈哈哈.md"}
+	],
+	"edges":[
+		{"id":"c2d5f96528b9fb16","fromNode":"2412e181cc594268","fromSide":"right","toNode":"53dd1e242765c119","toSide":"right"}
+	]
+}

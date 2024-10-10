@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "9d66ad9e7f85ff75",
+    "type": "split",
+    "children": [
+      {
+        "id": "da82d4e7d905ba75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bccf920801ea857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "哈哈哈.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d23a00a000f4341",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 113,
+                  "y": 82,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "4b8d99c52c3915be",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c3fcfc55cb00570",
+    "type": "split",
+    "children": [
+      {
+        "id": "d22e0566061b5dd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b778f4367380e1c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a2376b926e918ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e64484557b990369",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0e38cbfde023eba",
+    "type": "split",
+    "children": [
+      {
+        "id": "200f9df40ca4e6e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b489de3ecb740c16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c54587f3a2d60ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf2fabd9e7e0f30d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "48ec850d8e335b54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f334c7cadc9b099b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b778f4367380e1c3",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "大会.md",
+    "2024-10-10.md",
+    "哈哈哈.md",
+    "Untitled"
+  ]
+}
