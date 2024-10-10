@@ -23,6 +23,38 @@
             "id": "0d23a00a000f4341",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20241010223257.png"
+              }
+            }
+          },
+          {
+            "id": "94e4f1eeb079ad2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-10-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "853528bb81fd21f7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/37723a766b63ab8f555452277c1515c0.png"
+              }
+            }
+          },
+          {
+            "id": "51cbdcc1199a6a9e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
@@ -32,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,16 +200,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d23a00a000f4341",
+  "active": "51cbdcc1199a6a9e",
   "lastOpenFiles": [
-    "Pasted image 20241010223257.png",
-    "37723a766b63ab8f555452277c1515c0.png",
+    "images/Pasted image 20241010223257.png",
+    "images/37723a766b63ab8f555452277c1515c0.png",
+    "2024-10-10.md",
     "README.md",
+    "images",
     "Untitled.canvas",
     "哈哈哈.md",
     "Untitled.md",
     "大会.md",
-    "2024-10-10.md",
     "Untitled"
   ]
 }
