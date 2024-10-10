@@ -22,6 +22,6 @@ $$
 $$
 
 
-[!](/images/gitpng.png)
+![400](/images/gitpng.png)
 
 
