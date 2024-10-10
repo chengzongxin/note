@@ -4,53 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "da82d4e7d905ba75",
+        "id": "004dede32477525a",
         "type": "tabs",
         "children": [
-          {
-            "id": "2bccf920801ea857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "哈哈哈.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d23a00a000f4341",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20241010223257.png"
-              }
-            }
-          },
-          {
-            "id": "94e4f1eeb079ad2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-10-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "853528bb81fd21f7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/37723a766b63ab8f555452277c1515c0.png"
-              }
-            }
-          },
           {
             "id": "51cbdcc1199a6a9e",
             "type": "leaf",
@@ -63,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,13 +157,14 @@
   },
   "active": "51cbdcc1199a6a9e",
   "lastOpenFiles": [
-    "images/Pasted image 20241010223257.png",
-    "images/37723a766b63ab8f555452277c1515c0.png",
-    "2024-10-10.md",
+    "images/gitpng.png",
     "README.md",
+    "哈哈哈.md",
+    "images/Pasted image 20241010223257.png",
+    "2024-10-10.md",
+    "images/37723a766b63ab8f555452277c1515c0.png",
     "images",
     "Untitled.canvas",
-    "哈哈哈.md",
     "Untitled.md",
     "大会.md",
     "Untitled"
