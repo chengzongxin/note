@@ -23,27 +23,16 @@
             "id": "0d23a00a000f4341",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 113,
-                  "y": 82,
-                  "zoom": 0
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
-            }
-          },
-          {
-            "id": "4b8d99c52c3915be",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -175,14 +168,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b778f4367380e1c3",
+  "active": "0d23a00a000f4341",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "哈哈哈.md",
     "README.md",
     "Untitled.md",
-    "Untitled.canvas",
     "大会.md",
     "2024-10-10.md",
-    "哈哈哈.md",
     "Untitled"
   ]
 }
