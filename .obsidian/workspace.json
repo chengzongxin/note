@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "004dede32477525a",
+        "id": "f0437213ccdd64ab",
         "type": "tabs",
         "children": [
           {
-            "id": "51cbdcc1199a6a9e",
+            "id": "f8fe7b6b7f379ac3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,14 +155,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51cbdcc1199a6a9e",
+  "active": "f8fe7b6b7f379ac3",
   "lastOpenFiles": [
     "images/gitpng.png",
     "README.md",
+    "images/gitpng.md",
+    "images/37723a766b63ab8f555452277c1515c0.png",
+    "().md",
     "哈哈哈.md",
     "images/Pasted image 20241010223257.png",
     "2024-10-10.md",
-    "images/37723a766b63ab8f555452277c1515c0.png",
     "images",
     "Untitled.canvas",
     "Untitled.md",
