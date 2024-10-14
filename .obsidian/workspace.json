@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "15cbbd1ce6022f3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,23 +155,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15cbbd1ce6022f3f",
+  "active": "6894eecca74b2248",
   "lastOpenFiles": [
-    "images/test.jpeg",
-    "images/readme01.png",
-    "README.md",
     "师傅端项目.md",
+    "images/readme01.png",
+    "images/test.jpeg",
+    "README.md",
+    "images/37723a766b63ab8f555452277c1515c0.png",
     "images/Pasted image 20241014133423.png",
+    "images/gitpng.png",
+    "images/Pasted image 20241010223257.png",
+    "images/gitpng.md",
     "2024-10-14.md",
     "哈哈哈.md",
     "Untitled.canvas",
     "().md",
     "2024-10-10.md",
     "大会.md",
-    "images/gitpng.png",
-    "images/gitpng.md",
-    "images/37723a766b63ab8f555452277c1515c0.png",
-    "images/Pasted image 20241010223257.png",
     "images",
     "Untitled"
   ]
