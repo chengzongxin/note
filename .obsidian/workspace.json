@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6894eecca74b2248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "师傅端项目.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "师傅端项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "师傅端项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "师傅端项目.md"
               }
             }
           },
@@ -155,20 +168,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8fe7b6b7f379ac3",
+  "active": "6894eecca74b2248",
   "lastOpenFiles": [
-    "images/gitpng.png",
     "README.md",
+    "师傅端项目.md",
+    "哈哈哈.md",
+    "Untitled.canvas",
+    "().md",
+    "2024-10-10.md",
+    "大会.md",
+    "images/gitpng.png",
     "images/gitpng.md",
     "images/37723a766b63ab8f555452277c1515c0.png",
-    "().md",
-    "哈哈哈.md",
     "images/Pasted image 20241010223257.png",
-    "2024-10-10.md",
     "images",
-    "Untitled.canvas",
-    "Untitled.md",
-    "大会.md",
     "Untitled"
   ]
 }
