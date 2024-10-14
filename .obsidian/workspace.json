@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "汇信昌项目.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "汇信昌项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "汇信昌项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "汇信昌项目.md"
               }
             }
           },
@@ -157,10 +157,10 @@
   },
   "active": "6894eecca74b2248",
   "lastOpenFiles": [
-    "师傅端项目.md",
+    "README.md",
+    "汇信昌项目.md",
     "images/readme01.png",
     "images/test.jpeg",
-    "README.md",
     "images/37723a766b63ab8f555452277c1515c0.png",
     "images/Pasted image 20241014133423.png",
     "images/gitpng.png",
