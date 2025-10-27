@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac390d4cbef2dcfd",
+        "id": "df8c23de801c6f70",
         "type": "tabs",
         "children": [
           {
-            "id": "2c023976f0989b4c",
+            "id": "fcd9dbfe6947ef82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "log"
             }
           }
         ]
@@ -176,7 +176,8 @@
   },
   "active": "b778f4367380e1c3",
   "lastOpenFiles": [
-    "test.md",
+    "log.md",
+    "SDK/UMENG.md",
     "项目模块图片/Pasted image 20241015090137.png",
     "项目模块图片/Pasted image 20241015090041.png",
     "other/项目模块.md",
