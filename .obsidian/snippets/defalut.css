@@ -1,0 +1,15 @@
+/* @settings
+name: 默认主题设置
+id: custom-line-width
+settings:
+  -
+    id: file-line-width
+    title: 内容栏宽度
+    description: 调整编辑器/阅读模式的内容宽度
+    type: variable-number-slider
+    format: rem
+    default: 80
+    min: 40
+    max: 100
+    step: 5
+*/

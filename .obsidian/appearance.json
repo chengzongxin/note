@@ -1,1 +1,6 @@
-{}
+{
+  "enabledCssSnippets": [
+    "defalut"
+  ],
+  "cssTheme": "Discordian"
+}
