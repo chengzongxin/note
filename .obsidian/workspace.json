@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b3bb577f00b92d82",
+        "id": "85546e1277f87f34",
         "type": "tabs",
         "children": [
           {
-            "id": "22e00b3e0d7f44cf",
+            "id": "e306d07fa56777b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "account/Public.md",
+                "file": "other/打包.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Public"
-            }
-          },
-          {
-            "id": "e1704638a1ab9ab7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "account/Public.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Public"
-            }
-          },
-          {
-            "id": "355c1fbc1a1944d5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20241125151250.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241125151250"
+              "title": "打包"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -192,44 +165,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "355c1fbc1a1944d5",
+  "active": "b778f4367380e1c3",
   "lastOpenFiles": [
-    "周报.md",
-    "Untitled.md",
-    "router.md",
-    "app store review.md",
+    "other/项目模块.md",
+    "other",
+    "other/人员拆分.md",
+    "other/环境变量 .env.md",
+    "other/汇信昌项目.md",
+    "other/周报.md",
+    "other/app store review.md",
+    "other/Pasted image 20241125151250.png",
+    "other/router.md",
+    "other/todo.md",
+    "other/Untitled.md",
+    "other/todo1.md",
+    "other/打包.md",
+    "account/Person.md",
+    "account/Public.md",
     "开发记录/消息推送.md",
     "开发记录/GPT.md",
     "开发记录/prompt.md",
-    "account/Public.md",
-    "account/Person.md",
     "开发记录/苹果审核.md",
     "开发记录/常用.md",
-    "打包.md",
-    "汇信昌项目.md",
-    "人员拆分.md",
-    "todo1.md",
-    "todo.md",
-    "scheme.md",
-    "项目模块.md",
+    "other/scheme.md",
     "todo2.md",
     "account/公司账号.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "SDK/UMENG.md",
     "SDK",
-    "环境变量 .env.md",
-    "Pasted image 20241125151250.png",
-    "README.md",
+    "other/README.md",
     "images/readme01.png",
     "images/test.jpeg",
     "account",
@@ -242,7 +217,6 @@
     "项目模块图片/Pasted image 20241015091617.png",
     "项目模块图片/Pasted image 20241015091007.png",
     "项目模块图片/Pasted image 20241015090957.png",
-    "images/gitpng.md",
     "Untitled.canvas",
     "images"
   ]
