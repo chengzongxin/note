@@ -4,67 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "f0437213ccdd64ab",
+        "id": "b3bb577f00b92d82",
         "type": "tabs",
         "children": [
           {
-            "id": "7c7b8f4832abffa5",
+            "id": "22e00b3e0d7f44cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目模块.md",
+                "file": "account/Public.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "项目模块"
+              "title": "Public"
             }
           },
           {
-            "id": "d089d8106d36cd00",
+            "id": "e1704638a1ab9ab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人员拆分.md",
+                "file": "account/Public.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "人员拆分"
+              "title": "Public"
             }
           },
           {
-            "id": "da8248d9ebb1874d",
+            "id": "355c1fbc1a1944d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "开发记录/GPT.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20241125151250.png"
               },
-              "icon": "lucide-file",
-              "title": "GPT"
-            }
-          },
-          {
-            "id": "100a6654cb3b9645",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发记录/prompt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "prompt"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241125151250"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -95,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "88761",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人员拆分.md",
+                "file": "项目模块.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 人员拆分"
+              "title": "Backlinks for 项目模块"
             }
           },
           {
@@ -155,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人员拆分.md",
+                "file": "项目模块.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 人员拆分"
+              "title": "Outgoing links from 项目模块"
             }
           },
           {
@@ -182,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人员拆分.md"
+                "file": "项目模块.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 人员拆分"
+              "title": "Outline of 项目模块"
             }
           },
           {
@@ -216,17 +201,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d089d8106d36cd00",
+  "active": "355c1fbc1a1944d5",
   "lastOpenFiles": [
-    "项目模块.md",
-    "人员拆分.md",
-    "汇信昌项目.md",
     "周报.md",
-    "README.md",
-    "开发记录/prompt.md",
-    "开发记录/GPT.md",
+    "Untitled.md",
+    "router.md",
+    "app store review.md",
     "开发记录/消息推送.md",
+    "开发记录/GPT.md",
+    "开发记录/prompt.md",
+    "account/Public.md",
+    "account/Person.md",
+    "开发记录/苹果审核.md",
+    "开发记录/常用.md",
+    "打包.md",
+    "汇信昌项目.md",
+    "人员拆分.md",
+    "todo1.md",
+    "todo.md",
+    "scheme.md",
+    "项目模块.md",
+    "todo2.md",
     "account/公司账号.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "SDK/UMENG.md",
+    "SDK",
+    "环境变量 .env.md",
+    "Pasted image 20241125151250.png",
+    "README.md",
+    "images/readme01.png",
+    "images/test.jpeg",
     "account",
     "开发记录",
     "项目模块图片/Pasted image 20241015090041.png",
@@ -237,16 +242,8 @@
     "项目模块图片/Pasted image 20241015091617.png",
     "项目模块图片/Pasted image 20241015091007.png",
     "项目模块图片/Pasted image 20241015090957.png",
-    "项目模块图片/Pasted image 20241015090938.png",
-    "项目模块图片/Pasted image 20241015090246.png",
-    "images/readme01.png",
     "images/gitpng.md",
-    "2024-10-14.md",
-    "哈哈哈.md",
     "Untitled.canvas",
-    "().md",
-    "2024-10-10.md",
-    "大会.md",
     "images"
   ]
 }
